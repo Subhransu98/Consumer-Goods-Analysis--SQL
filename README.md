@@ -44,39 +44,39 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 ![1](https://github.com/user-attachments/assets/9c7d8fb5-af4b-4bb2-9cda-3a45d89ef6b4)
 
-![2](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/57b84c1e-8a8b-42aa-abea-7e728bb23c88)
+![2](https://github.com/user-attachments/assets/a090755f-5d52-4d6b-a858-5fc2a742ffa8)
 
-![3](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/3d1884de-1740-456d-899f-8e6328d365cb)
+![3](https://github.com/user-attachments/assets/9652d228-7108-49f0-a5ad-13f547d98810)
 
-![4](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/298b1345-e65b-4532-a1d7-dbbd7a3c4fa0)
+![4](https://github.com/user-attachments/assets/75590910-f9f0-4390-8037-80ed2f369355)
 
-![5](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/1824a820-864d-4585-bef5-3e9a4b6648a8)
+![5](https://github.com/user-attachments/assets/69f3629e-76c0-417e-aa7c-ece600da4d34)
 
-![6](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/38258576-936a-40d4-85d9-17be3307d5df)
+![6](https://github.com/user-attachments/assets/5b33cd6c-dbd3-4b8a-9131-d5391145b231)
 
-![7](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/2629da93-4b0b-40cc-8089-e2414447a8cf)
+![7](https://github.com/user-attachments/assets/8fd6bd4b-473d-4ca3-bfe6-bb9e5b2fd35b)
 
-![8](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/0ecdb579-87fa-4c14-aa46-77fbb1de6903)
+![8](https://github.com/user-attachments/assets/f93ff594-d703-443e-a480-6efc64f056d2)
 
-![9](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/bd1706f5-9f08-44a5-87f0-bebce52f8097)
+![9](https://github.com/user-attachments/assets/e5e3e9ce-43e6-4d19-8bdb-a4b1b4b7d094)
 
-![10](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/600d55db-f060-45a9-8205-0c7862d7537d)
+![10](https://github.com/user-attachments/assets/f6fd3932-0bf8-4919-86d5-836088f57839)
 
-![11](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/2f876df5-1a2e-4c8f-b560-1b360bf21d7d)
+![11](https://github.com/user-attachments/assets/67560937-91ad-4166-8f86-8602d98bd140)
 
-![12](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/8388b74d-5913-44b4-b354-ef0a05289b65)
+![12](https://github.com/user-attachments/assets/020da0b6-055e-4edc-9bb4-0df9fe17a339)
 
-![13](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/6ca8d280-1ce5-40ff-9459-08bbd4638c66)
+![13](https://github.com/user-attachments/assets/7b98c035-9b7e-4547-ae1d-de4b69abd193)
 
-![14](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/31efb243-254b-4524-b0d9-4cc0aaad5286)
+![14](https://github.com/user-attachments/assets/5b24cad9-408c-41a3-acd3-1ac678f32854)
 
-![15](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/8e63aaff-fd27-40d5-83c6-46ab4b44e42e)
+![15](https://github.com/user-attachments/assets/07e32c1b-9805-45f9-b3c8-758c9ee23094)
 
-![16](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/5f1bb8e1-a988-4357-808e-c3d26582722c)
+![16](https://github.com/user-attachments/assets/89e864f6-8376-4e00-ba23-3ec334c24b49)
 
-![17](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/cfd745ed-daac-4653-916e-d473212c7bb0)
+![17](https://github.com/user-attachments/assets/a987842c-b5b4-4f7a-a6c5-b9b3c82162b1)
 
-![18](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/82a5ac49-9697-4163-8112-f8c24c41e738)
+![18](https://github.com/user-attachments/assets/55439333-cfac-40fa-bd7a-7e5212be24c6)
 
 
 
