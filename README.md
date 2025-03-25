@@ -42,7 +42,7 @@ The dataset utilized in this project pertains to AtliQ Hardwares, encompassing d
 
 ### Project
 
-![1](https://github.com/user-attachments/assets/d6efde22-1b4c-41bd-a836-ce767807644a)
+![1](https://github.com/user-attachments/assets/9c7d8fb5-af4b-4bb2-9cda-3a45d89ef6b4)
 
 ![2](https://github.com/YatinLokhande/SQL---Consumer-Goods-Analysis/assets/159231905/57b84c1e-8a8b-42aa-abea-7e728bb23c88)
 
